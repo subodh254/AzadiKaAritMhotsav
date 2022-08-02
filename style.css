@@ -1,0 +1,48 @@
+body{
+    background-position: center;
+    
+}
+
+#heading{
+ 
+    color: red;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: chartreuse;
+    width: 100%;
+    font-weight: bolder;
+    font-size: 30px;
+}
+#joining_link{
+    background-color: black;
+    font-size: 10px;
+}
+#govt{
+    
+    color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: chartreuse;
+    width: 100%;
+    font-weight: bolder;
+    font-size: 25px;  
+}
+#mummy{
+    
+    color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: chartreuse;
+    width: 400px;
+    font-weight: bolder;
+    font-size: 20px;  
+    text-align: left;
+    
+}
+
+#principal{
+    text-align: right;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
